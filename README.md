@@ -20,10 +20,10 @@ Untuk menjalankan project secara lokal, gunakan salah satu **local development e
 
 Tools pendukung:
 
-* **Visual Studio Code** — editor source code
-* **Git** — version control
-* **GitHub** — repository dan distribusi source code
-* **Web Browser** — menjalankan dan menguji aplikasi
+* **Visual Studio Code** - editor source code
+* **Git** - version control
+* **GitHub** - repository dan distribusi source code
+* **Web Browser** - menjalankan dan menguji aplikasi
 
 ---
 
