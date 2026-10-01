@@ -1,4 +1,4 @@
-# Pusat Source Code & Referensi Belajar Mahasiswa
+# Source Code & Referensi Belajar Mahasiswa
 
 Repository ini menjadi pusat **source code, contoh program, materi praktikum, dan referensi pembelajaran** selama perkuliahan.
 
