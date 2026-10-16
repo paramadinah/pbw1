@@ -68,10 +68,10 @@ pertemuan4/
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **HTML5** — untuk menyusun struktur halaman website.
-- **CSS3** — untuk mengatur layout, warna, dan tampilan visual.
-- **SVG** — sebagai format aset grafis.
-- **Visual Studio Code** — sebagai editor kode untuk pengembangan proyek.
+- **HTML5** : untuk menyusun struktur halaman website.
+- **CSS3** : untuk mengatur layout, warna, dan tampilan visual.
+- **SVG** : sebagai format aset grafis.
+- **Visual Studio Code** : sebagai editor kode untuk pengembangan proyek.
 
 ---
 
