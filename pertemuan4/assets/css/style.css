@@ -110,6 +110,7 @@ box-shadow:  inset 0px 0px 1000px 100px rgba(7, 7, 7, 0.5);
     font-size: 30px;
     background: linear-gradient(145deg, rgba(255, 162, 0, 0.432), rgba(90, 224, 0, 0.5),#00c3ff);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -223,6 +224,7 @@ height: 60px;
 
 .page-dashboard main{
     grid-area:main;
+    padding: 32px;
 }
 
 .page-dashboard footer{
@@ -236,7 +238,7 @@ height: 60px;
 }
 
 .page-dashboard main section{
-    padding: 20px;
+    padding: 24px;
     width: 100%;
 }
 .page-dashboard main section .welcome{
@@ -247,12 +249,13 @@ height: 60px;
     border-radius: 12px;
     height: 100%;
     width: 100%;
+    gap: 16px;
     box-shadow: 0px 0px 6px #000;
 }
 
 .page-dashboard main .card{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+   display: flex;
+    justify-content: space-between;
     
 }
 
