@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=A, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            display: grid;
+            grid-template-columns:1fr 1fr;
+            height: 100vh;
+        }
+
+        aside{
+            background-color: teal;
+        }
+h1{
+    background: linear-gradient(
+    145deg,
+    rgba(255, 162, 0, 0.432),
+    rgba(90, 224, 0, 0.5),
+    #00c3ff
+);
+
+box-shadow: inset 0px 0px 1000px 100px
+    rgba(7, 7, 7, 0.5);
+
+height: 100%;
+width: 100%;
+text-shadow: 0px 0px 10px #000;
+}
+
+.page-login aside form input:focus {
+    outline: none;
+    border-bottom: 1px solid #15ff00;
+    transition: 0.5s;
+}
+
+    </style>
+</head>
+<body>
+    <aside><H1>ASIDE</H1></aside>
+    <main><H1>MAIN</H1></main>
+</body>
+</html>
